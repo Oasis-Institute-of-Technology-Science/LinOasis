@@ -70,3 +70,7 @@ p {
   text-align: center;
   padding: 20px;
 }
+
+/* Import theme and animations */
+@import './theme.scss';
+@import './animations.scss';
