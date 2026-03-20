@@ -72,5 +72,5 @@ p {
 }
 
 /* Import theme and animations */
-@import './theme.scss';
-@import './animations.scss';
+@use './theme';
+@use './animations';
