@@ -1,3 +1,7 @@
+/* Import theme and animations */
+@use './theme';
+@use './animations';
+
 * {
   margin: 0;
   padding: 0;
@@ -70,7 +74,3 @@ p {
   text-align: center;
   padding: 20px;
 }
-
-/* Import theme and animations */
-@use './theme';
-@use './animations';
